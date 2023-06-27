@@ -1,6 +1,6 @@
 export const Times = () => {
   return (
-    <div className="sticky left-0 mt-[4.27rem] text-right text-neutral-400 pr-1 flex flex-col text-xs gap-8">
+    <div className="sticky left-0 mt-[4.75rem] text-right text-neutral-400 pr-1 flex flex-col text-xs gap-8">
       <div>7:00</div>
       <div>8:00</div>
       <div>9:00</div>
