@@ -8,7 +8,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="flex h-screen flex-col overflow-auto">
+      <body className="  flex h-[100dvh] flex-col overflow-auto">
         <Topbar />
         {children}
       </body>
